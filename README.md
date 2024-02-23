@@ -1,2 +1,3 @@
-# learing-git
-Belajar Dasar Git dengan GitHub
+# Learning-git
+Belajar Git dengan GitHub
+Copyright 2024
